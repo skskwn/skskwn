@@ -7,25 +7,19 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
 
+## 안녕하세요~ 반갑습니다👋
+
 ## skskwn : Python Programmer
 
-파이썬으로 (웹, GUI 프로그래밍), 프로그램 제작, 데이터 분석 및 딥러닝, 머신러닝에 관심이 많으며 실 서비스를 만들고 더 나은 편리한 세상을 꿈꾸고 만드는데 관심이 많은 프로그래머입니다.
+많은 프로젝트를 체험하고 학습하는 것을 좋아하며 파이썬으로 (웹, GUI 프로그래밍), 프로그램 제작을 하면서 데이터 분석 및 딥러닝, 머신러닝에 관심이 많으며 실 서비스를 만들고 더 나은 편리한 세상을 꿈꾸고 만들기위해 생각하고 늘 관심이 많은 프로그래머입니다!
 
-## Stack
+## 📖 Stack
 
-- PyCharm
-- Docker
-- Anaconda
-- c,c++
-- 
+- 인터프리터 언어 ( Python )
+- 컴파일 언어 ( C, C++, C# )
+- 프론트엔드 ( HTML, CSS, JavaScript ) -잘하지는 않지만 노력하고 있습니다!✨
 
-<a href="https://instagram.com/alpox.dev">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="https://alpox.kr">
-    <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+
+
+
 </a>****
