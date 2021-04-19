@@ -7,16 +7,17 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
 
-## AlpoxDev : Service Programmer
+## skskwn : Python Programmer
 
-어플리케이션부터 프론트엔드, 백엔드 모두 관심이 많으며 실 서비스를 만드는데 관심이 많은 프로그래머입니다. 
+파이썬으로 (웹, GUI 프로그래밍), 프로그램 제작, 데이터 분석 및 딥러닝, 머신러닝에 관심이 많으며 실 서비스를 만들고 더 나은 편리한 세상을 꿈꾸고 만드는데 관심이 많은 프로그래머입니다.
 
 ## Stack
 
-- React.js
-- Node.js
-- React-Native
-- Android-Studio
+- PyCharm
+- Docker
+- Anaconda
+- c,c++
+- 
 
 <a href="https://instagram.com/alpox.dev">
     <img 
