@@ -13,7 +13,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skskwn)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🔧 제가 좋아하는 기술은요?
+## 🔧 제가 좋아하는 기술
 
 - 딥러닝
 - 기계학습
