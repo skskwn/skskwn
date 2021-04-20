@@ -7,7 +7,7 @@
 
 ## 안녕하세요~ 반갑습니다👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?skskwn=skskwn)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?skskwn=anuraghazra&count_private=true)
 
 ## skskwn : Python Programmer
 
