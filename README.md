@@ -67,7 +67,7 @@ Email : codinglab1@naver.com
 #### OS
 - Windows, Ubuntu, Docker
 #### Language
-- Python, C, C#, JavaScript, html(markup)
+- Python, C, C++, C#, JavaScript, html(markup)
 #### DB
 - Firebase
  
