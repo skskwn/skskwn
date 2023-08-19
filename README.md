@@ -78,7 +78,7 @@ Email : codinglab1@naver.com
 #### OS
 - Windows, Ubuntu, Docker
 #### Language
-- Python, C, C++, C#, JavaScript, html(markup)
+- Python, C, C++, C#, JavaScript, <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>
 #### DB
 - Firebase
  
