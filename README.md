@@ -32,14 +32,14 @@ Email : codinglab1@naver.com
 #### [DynamiKontrol](https://dk.m47rix.com/) ( 2021 )
 
 - 소개 : 가장 쉽게 간단하게 인공지능 솔루션 위에 파이썬 프로그래밍 언어를 통하여 하드웨어를 제어하는 모듈을 제공하는 서비스
-- 기간 : 2021.4.11 ~
+- 기간 : 2021.4.11 ~ 2023.01.06
 - 역할 : 알파 테스터, 프로젝트 개발
 - 사용했던 기술 : Python
 
 #### [PH봇](https://phservice.tk/) ( 2021 )
 
 - 소개 : 지속적으로 기능을 추가하여 여러 가지 봇을 추가할 필요 없이 다방면에 대체 가능한 통합된 봇
-- 기간 : 2021.5.4 ~
+- 기간 : 2021.5.4 ~ 2021.09.10
 - 역할 : PH봇 기술 개발
 - 사용했던 기술 : Python
 
@@ -69,6 +69,7 @@ Email : codinglab1@naver.com
 - Arduino
 - Raspberry Pi
 - BBC micro:bit
+- MCU (STM32 MCU)
 
 #### 소프트웨어 개발
 
