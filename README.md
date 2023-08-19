@@ -75,12 +75,7 @@ Email : codinglab1@naver.com
 
 ## 기술 스택
 
-#### OS
-- Windows, Ubuntu, Docker
-#### Language
-- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-#### DB
-- Firebase
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> 
  
 ## 맺음말
 많은 프로젝트를 체험하고 학습하는 것을 매우 좋아하며 파이썬으로 (웹, GUI 프로그래밍), 프로그램 제작을 하면서 데이터 분석 및 딥러닝, 머신러닝에 관심이 많으며 실 서비스를 만들고 더 나은 편리한 세상을 꿈꾸고 만들기 위해 생각하고 늘 관심이 많은 프로그래머입니다! 항상 열심히 노력하는, 모두에게 도움이 되도록 노력하겠습니다!
